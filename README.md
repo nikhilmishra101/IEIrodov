@@ -1,6 +1,6 @@
 ### Hi There 👋 Nikhil This side.
 
-- 🏡 I’m live in India, New Delhi.
+- 🏡 I live in India, New Delhi.
 - 🌱 I'm a Full stack Developer, and a coding Enthusiast 
 - 🤖 Most of the time I am writing on Javascript and Python.
 - ⚡ Fun fact: big fan of Panic in the disco (google it).
