@@ -3,7 +3,7 @@
 - 🏡 I live in New Delhi,India
 - 🌱 I'm a Full stack Developer, and a coding Enthusiast 
 - 🤖 Most of the time I am writing on Javascript and Python.
-- ⚡ Fun fact: big fan of Panic in the disco (google it).
+- ⚡ Fun fact: big fan of Berlin in Lacasa de papel(Money Heist) (google it).
 - ✉️ You can have more about me on twitter [@kafirnikhil](https://twitter.com/KafirNikhil).
 
 
