@@ -1,4 +1,3 @@
-<!--
 ## Hey! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm Nikhil Mishra
 <img align="right" width="500" height="500" src="./img/home-banner-bg.png">
 - 🏡 I live in New Delhi,India
@@ -29,7 +28,7 @@ Hi, I'm Nikhil Mishra, A Full Stack Web Developer 👨‍💻 , More About Me Do
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IEIrodov&hide=javascript,css,scss,html&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IEIrodov&layout=compact&theme=radical)
- -->
+ 
  
  
  
