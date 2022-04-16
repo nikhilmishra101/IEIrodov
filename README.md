@@ -1,5 +1,4 @@
 ## Hey! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm Nikhil Mishra
-<img align="right" width="500" height="500" src="./img/home-banner-bg.png">
 - 🏡 I live in New Delhi,India
 - 🌱 I'm a Full stack Developer, and a coding Enthusiast 
 - 🤖 Most of the time I am writing on Javascript and Python.
